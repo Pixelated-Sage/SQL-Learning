@@ -1,6 +1,8 @@
 **Relational Databases**
 
+![Diagram](Images/RelationalDB.png)
 
-
-![Diagram](SQL-Learning/Basics/Images/RelationalDB.png)
-
+Examples of Relational DBMS
+- MySQL
+- Maria DB
+- PostgreSQL
