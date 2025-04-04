@@ -1,3 +1,6 @@
 **Relational Databases**
 
-![[Pasted image 20250404104420.png]]
+
+
+![Diagram](SQL-Learning/Basics/Images/RelationalDB.png)
+
